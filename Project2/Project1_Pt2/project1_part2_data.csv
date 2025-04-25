@@ -1,0 +1,21 @@
+ID,Name,Age,Salary,Department,Position,Work Experience (Years),Education Level
+1,Alice Johnson,49.0,46910.0,Operations,Consultant,13,PhD
+2,Michael Smith,28.0,40206.0,IT,Manager,9,Associate
+3,Emma Williams,30.0,63419.0,Sales,Analyst,15,PhD
+4,David Brown,29.0,90636.0,HR,Executive,13,Bachelor's
+5,Olivia Jones,33.0,,Marketing,Consultant,1,Diploma
+6,James Garcia,55.0,94268.0,Finance,Coordinator,7,Diploma
+7,Sophia Martinez,54.0,58141.0,Operations,Manager,9,Master's
+8,Benjamin Anderson,44.0,111910.0,Marketing,Manager,24,Bachelor's
+9,Charlotte Thomas,45.0,96044.0,Sales,Executive,1,Bachelor's
+10,Daniel Wilson,,107214.0,HR,Coordinator,12,PhD
+11,Amelia Taylor,56.0,73827.0,Operations,Consultant,8,Diploma
+12,Matthew Moore,43.0,95820.0,Finance,Coordinator,24,PhD
+13,Isabella Lee,48.0,102623.0,IT,Manager,11,Bachelor's
+14,Ethan Harris,56.0,115450.0,HR,Manager,19,Associate
+15,Mia Clark,22.0,62299.0,HR,Consultant,17,Bachelor's
+16,Alexander Lewis,56.0,83585.0,Operations,Developer,8,Associate
+17,Harper Walker,58.0,104044.0,Finance,Consultant,3,Associate
+18,William Hall,35.0,82557.0,Sales,Manager,3,Bachelor's
+19,Evelyn Young,24.0,89080.0,Sales,Consultant,1,PhD
+20,Henry Allen,22.0,42693.0,HR,Manager,5,Master's
